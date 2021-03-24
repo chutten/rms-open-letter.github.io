@@ -235,6 +235,7 @@ Signed,
 1. Chris Desnoyers
 1. Chris DiBona (Google LLC.)
 1. Chris Garaffa (Tech for the People)
+1. Chris H-C (`chutten`, Mozilla)
 1. Chris Hoge
 1. Chris Johnson
 1. Chris Riley
